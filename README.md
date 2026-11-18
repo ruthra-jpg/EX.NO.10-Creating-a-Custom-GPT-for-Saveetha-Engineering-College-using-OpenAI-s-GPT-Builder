@@ -56,6 +56,9 @@ The screen below shows a sample conversation with the published “Saveetha Engi
 </br><img width="545" height="385" alt="image" src="https://github.com/user-attachments/assets/677bee25-a510-48db-824d-4dbb5795d610" /></br>
 ## OUTPUT
 A working Custom GPT named “Saveetha Engineering College Assistant” is created and published. When a user asks questions like “What courses does Saveetha offer?” or “How can I apply for B.Tech admission?”, the GPT replies with accurate information drawn from the uploaded college knowledge files, in a friendly and professional tone.
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2ca034e1-389a-41c0-bc99-07296978ef69" />
+
 ## RESULT
 Thus, a Custom GPT chatbot for Saveetha Engineering College was successfully designed, configured with knowledge files and instructions, tested, and published using OpenAI's GPT
 Builder.
